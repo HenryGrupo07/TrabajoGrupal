@@ -1,4 +1,4 @@
-# Proyectoo : Análisis de Reviews de Google Sector Hotelero de EEUU.
+# Proyecto : Análisis de Reviews de Google Sector Hotelero de EEUU.
 ![Logo]()
 # Descripción del Proyecto
 </div>
@@ -19,10 +19,10 @@ La tecnología nos ha hecho impacientes y queremos las cosas al instante. La com
 - Ya sea que el cliente gaste U$D 200 o U$D 2000 por la habitación, siempre están buscando el mayor valor por su dinero.
 - El lujo es un término que tiene muchas definiciones ahora y cambia en torno a la percepción del cliente más que nunca.
 - La marca o un hotel bien diseñado ya no es suficiente. Se trata de la experiencia.
-### Satisfacción del cliente: 
+#### Satisfacción del cliente: 
 El servicio al cliente en la industria de la hospitalidad es la clave del éxito. Los hoteles se enfrentan al problema de la mala satisfacción del cliente, que es el asesino de las empresas en la industria hotelera.Una vez que un hotel recibe una mala crítica, es extremadamente difícil recuperar su posición de buena reputación.
 Por ello, muchos hoteles y sus gerentes están trabajando constantemente en múltiples canales y plataformas para mejorar las operaciones del hotel, así como su nivel de servicio.
-### Competencia: 
+#### Competencia: 
 Con más avances tecnológicos, las barreras de entrada se reducen y nuevos competidores y disruptores están apareciendo en la escena. Mientras que los hoteles de lujo y boutique han logrado aprovechar las muchas oportunidades para la innovación hotelera que tienen por delante, otros hoteles están lidiando con la creciente presión para tener éxito.
 
 </div>
@@ -32,11 +32,13 @@ Con más avances tecnológicos, las barreras de entrada se reducen y nuevos comp
 Brindar información valiosa y útil  para la toma de decisiones de Inversión y Gestión de Hoteles en EEUU.
 
 </div>
+
 ### Propuesta de Valor
+
 Nos apoyamos de la herramienta Value Proposition Canvas para visualizar cómo nuestro producto a entregar va a generar valor para nuestro cliente. 
 ![Value]()
 
-## ALCANCE
+## Alcance
 Se encuentra dentro del alcance de este proyecto:
 + Negocios objetivo : Sector Hotelero.
 + La fuente de información principal son los reviews de negocios publicados en Google , no contamos con información de otras plataformas.
@@ -74,48 +76,14 @@ Los pilares de nuestra metodología son:
 ![Scrum]()
 
 <div>
-
-
-## Pasos a seguir:
-                                                                                                                                     
-![Flujo](https://github.com/JacqueDominguez/PI03-Data-Analytics/blob/main/src/assets/flujo.jpg)                                                                                                                                     
-                                                                                                                                     
-                                                                                                                                     
-### 1- Análisis exploratorio de datos (EDA) y preprocesamiento
-
-Para ello utilicé Python , más especificamente las librerias pandas y numpy para unificar los datasets de Coursera y realizar el análisis de los datos , podrás encontrar todo el código dentro de éste notebook [EDA](/EDA.ipynb).
-
-Algunos de los hallazgos más destacados fueron: 
-
-+ El dataset de Corusera posee 1.454.711 filas y 8 columnas, solo posee 140 datos nulos y una única variable numérica (rating).
-+ El dataset de EDX posee 975 filas y 16 columnas, posee 777 datos nulos y todas sus variables son tipo objeto.
-+ El dataset de Udemy posee 3678 filas y 12 columnas, no posee datos nulos y la mitad del dataset es de datos numéricos.
-+ Completé los datos faltantes con 'Sin_Dato' o 0  segun corresponda. 
-+ Analicé los valores únicos que asume cada variable. 
-+ Transformé los tipos de datos de las columnas correspondientes. 
-+ Apliqué la función split para extraer de las columnas tipo object los datos numéricos(duración y precio) 
-+ Los duplicados son en Coursera: 934.764, en EDX: 1, en Udemy: 6, pueden afectar el análisis por lo que se eliminan.
-+ Eliminé las columnas que no son significativas para el análisis. 
-+ Generé 3 archivos que me servirán de base para realizar el dashboard. 
-
-### 2- WordCloud : realización de una nube de palabras
-
-Para ello utilicé Python , más especificamente las librerias pandas y numpy para unificar los titulos en un único dataframe y nltk realizar limpieza de palabras con la función stopwords que elimina palabras insignificantes. Para poder convertirlo en una figura usé la librería matplotlib (podras encontrar todo el código dentro de éste notebook [nubedepalabras](/nubedepalabras.ipynb).
-
-### 3- Dashboard con PowerBI 
- 
-Se incluyeron los archivos generados en el punto 1 y la nube de palabras del punto 2 en un dashboard interactivo que funciona al mismo tiempo como soporte visual de la presentación del análisis , podrás descargarlo de esta carpeta de Google Drive con el nombre de [Informe](https://drive.google.com/drive/folders/15X7M8hhcVMkZF_9uFEfB7u-nPBA5lYjY?usp=share_link).                                                                              
-     
+## Producto
+Puede acceder a nuestro producto desde el siguiente link.                                                                                                                                       
 </div>
 
-## CONCLUSIONES 
+## Conclusiones
 
-Podras encontar el informe completo en este repositorio con el nombre de Informe Final.
-                                                                                                                                     
-
-
-
-
+Podrá encontar el informe completo en este repositorio con el nombre de Informe Final.
+  
 </div>
 
 ## Equipo de Trabajo 
