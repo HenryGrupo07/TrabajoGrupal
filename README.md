@@ -10,19 +10,15 @@ PCA Data es una consultora que procesa y analiza de manera eficiente la informac
 ## Contexto
 La industria hotelera se vio afectada por el COVID-19 y los viajes internacionales aun no alcanzan los niveles previos a la pandemia.Los cambios importantes en la gestión, el servicio y las tendencias del mercado establecerán el estándar para el futuro de la industria hotelera.
 Los principales desafíos en la industria hotelera que destacamos son: 
-### Caminar al ritmo de la tecnología: 
++ **Caminar al ritmo de la tecnología:** 
 la tecnología va a ser la clave para lograr una ventaja competitiva.A medida que la tecnología continúa impactando las operaciones humanas diarias, los hoteles se han visto obligados a reevaluar sus esfuerzos de marketing para capturar el mercado en línea en constante crecimiento.
 Desafortunadamente, aunque muchos hoteles han adoptado Internet y todos los aspectos del marketing digital,algunas de las mejores herramientas de marketing de la industria hotelera aún están inexploradas o poco exploradas.
-#### Demandas de los consumidores en constante cambio:
-La tecnología nos ha hecho impacientes y queremos las cosas al instante. La comprensión del cliente es, por lo tanto, la clave y más en la industria hotelera. El sitio de noticias de viajes Skift entrevistó a varios de los mejores hoteleros y obtuvo estas respuestas:
-- El cliente del hotel está más orientado culturalmente ahora, lo que hace que la comprensión sea más difícil.
-- Ya sea que el cliente gaste U$D 200 o U$D 2000 por la habitación, siempre están buscando el mayor valor por su dinero.
-- El lujo es un término que tiene muchas definiciones ahora y cambia en torno a la percepción del cliente más que nunca.
-- La marca o un hotel bien diseñado ya no es suficiente. Se trata de la experiencia.
-#### Satisfacción del cliente: 
+**Demandas de los consumidores en constante cambio:**
+La tecnología nos ha hecho impacientes y queremos las cosas al instante. La comprensión del cliente es, por lo tanto, la clave y más en la industria hotelera.
++ **Satisfacción del cliente:**
 El servicio al cliente en la industria de la hospitalidad es la clave del éxito. Los hoteles se enfrentan al problema de la mala satisfacción del cliente, que es el asesino de las empresas en la industria hotelera.Una vez que un hotel recibe una mala crítica, es extremadamente difícil recuperar su posición de buena reputación.
 Por ello, muchos hoteles y sus gerentes están trabajando constantemente en múltiples canales y plataformas para mejorar las operaciones del hotel, así como su nivel de servicio.
-#### Competencia: 
++ **Competencia:**
 Con más avances tecnológicos, las barreras de entrada se reducen y nuevos competidores y disruptores están apareciendo en la escena. Mientras que los hoteles de lujo y boutique han logrado aprovechar las muchas oportunidades para la innovación hotelera que tienen por delante, otros hoteles están lidiando con la creciente presión para tener éxito.
 
 </div>
@@ -76,6 +72,7 @@ Los pilares de nuestra metodología son:
 ![Scrum]()
 
 <div>
+  
 ## Producto
 Puede acceder a nuestro producto desde el siguiente link.                                                                                                                                       
 </div>
