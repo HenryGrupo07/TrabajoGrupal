@@ -81,8 +81,11 @@ Los pilares de nuestra metodología son:
 ## Entregables 
 Los entregables de este proyecto son: 
   + Un [Diccionario](/Documentación/2-Diccionario.pdf) de datos
-  + Un [Informe de Calidad de los Datos](/Documentación/3-Informe de Calidad de los Datos.pdf).
+  
+  + Un [Diccionario](/Documentación/2-Diccionario.pdf) de datos.
+  
   + Un [Análisis Exploratorio](/Documentación/4-Análisis Exploratorio.pdf) de los Datos.
+  
   + Automatización de la carga incremental y transformación de los datos.
   + Un modelo de Machine Learning.
   + Un dashboard.
