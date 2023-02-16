@@ -1,5 +1,6 @@
 # Proyecto : Análisis de Reviews de Google Sector Hotelero de EEUU.
-![Logo]()
+</div>
+
 # Descripción del Proyecto
 </div>
 PCA Data es una consultora que procesa y analiza de manera eficiente la información proveniente de las reseñas de los usuarios del sector hotelero de Estados Unidos. De esta manera  que los gerentes puedan tomar decisiones eficientes en materia de inversión y gestión. Ayudándolos a elegir ubicaciones valiosas para instalar nuevas dependencias y por lo tanto disminuir riesgos de inversión así como mejorar la calidad de sus servicios y ofrecer mejores experiencias para los usuarios, obteniendo de ésta manera una ventaja competitiva.
