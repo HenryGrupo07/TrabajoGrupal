@@ -57,6 +57,7 @@ Se encuentra ***fuera del alcance*** de este proyecto:
 
 ## Stack tecnológico
 A continuación podrá visualizar en detalle las tecnologías a utilizar y el flujo de los datos:
+  
 <image src="/src/Arquitectura.jpg">
 
 ### Riesgos
