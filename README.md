@@ -80,7 +80,8 @@ Los pilares de nuestra metodología son:
   
 ## Entregables 
 Los entregables de este proyecto son: 
-  + Un [Diccionario](/Documentación/2-Diccionario.pdf) de datos
+  
+  + Un [Diccionario](/Documentación/2-Diccionario.pdf) de datos.
   
   + Un [Informe](/Documentación/3-Informe de Calidad de los Datos.pdf) de Calidad de datos.
   
