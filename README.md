@@ -1,6 +1,7 @@
 # Proyecto : Análisis de Reviews de Google Sector Hotelero de EEUU.
 <div>
-<image src="/src/LOGO PCA.png">
+<p align="center">
+<image src="/src/LOGO PCA.png"width="250" height="250">
 
 </div>
 
