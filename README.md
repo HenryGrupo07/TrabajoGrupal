@@ -96,7 +96,7 @@ Los entregables de este proyecto son:
   
   + Automatización de la carga incremental y transformación de los datos.
   
-  + Un modelo de Análisis de sentimiento de [Machine Learning](/Machine_Learning/).
+  + Un modelo de Análisis de sentimiento y un moldelo de Recomendación que podrás encontrar desarrollado en la carpeta [Machine Learning](/Machine_Learning/).
   
   + Un dashboard.
   
