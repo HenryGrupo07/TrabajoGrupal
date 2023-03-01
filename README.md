@@ -41,7 +41,7 @@ Brindar información valiosa y útil  para la toma de decisiones de Inversión y
 ### Propuesta de Valor
 
 Nos apoyamos de la herramienta Value Proposition Canvas para visualizar cómo nuestro producto a entregar va a generar valor para nuestro cliente. 
-<image src="/src/Value.jpg">
+<image src="/src/CANVAS.jpg">
 
 ## Alcance
 Se encuentra dentro del alcance de este proyecto:
@@ -63,7 +63,7 @@ Se encuentra ***fuera del alcance*** de este proyecto:
 
 A continuación podrá visualizar en detalle las tecnologías a utilizar y el flujo de los datos:
   
-<image src="/src/Arquitectura.jpg">
+<image src="/src/ARQUITECTURA.jpg">
 
 ### Riesgos
 
