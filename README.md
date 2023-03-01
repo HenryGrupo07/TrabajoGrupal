@@ -92,11 +92,14 @@ Los entregables de este proyecto son:
   
   + Un [Informe](/Documentacion/3-Informe_Calidad.pdf) de Calidad de datos.
   
-  + Un [Análisis Exploratorio](/Documentacion/EDA) de los Datos.
+  + Un [Análisis Exploratorio](/EDA/) de los Datos.
   
   + Automatización de la carga incremental y transformación de los datos.
-  + Un modelo de Análisis de sentimiento de [Machine Learning](/Documentacion/ML).
+  
+  + Un modelo de Análisis de sentimiento de [Machine Learning](/Machine Learning/).
+  
   + Un dashboard.
+  
   + Una página web de consulta desarrollada en [Streamlit](https://cquinayas-deploy-proyecto-final-henry-app-ucqalg.streamlit.app/).
                                                                                                                                    
 </div>
