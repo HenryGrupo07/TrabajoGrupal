@@ -11,7 +11,7 @@ Somos un grupo de profesionales con amplia experiencia en análisis de datos, pr
 </div>
 
 # Descripción del Proyecto
-Para este proyecto PCA Data analizará de manera eficiente la información proveniente de las reseñas de los usuarios del sector hotelero de Estados Unidos. De esta manera,los gerentes podrán tomar decisiones eficientes en materia de inversión y gestión. Ayudándolos a elegir ubicaciones valiosas para instalar nuevas dependencias y por lo tanto disminuir riesgos de inversión así como mejorar la calidad de sus servicios y ofrecer mejores experiencias para los usuarios, obteniendo de ésta manera una ventaja competitiva.
+Para este proyecto PCA Data analizará de manera eficiente la información proveniente de las reseñas de los usuarios del sector hotelero de Estados Unidos. De esta manera,los gerentes podrán tomar las mejores eficientes en materia de inversión y gestión. Ayudándolos a elegir ubicaciones valiosas para instalar nuevas dependencias y por lo tanto disminuir riesgos de inversión así como mejorar la calidad de sus servicios y ofrecer mejores experiencias para los usuarios, obteniendo de ésta manera una ventaja competitiva.
 <div>
 
 </div>
@@ -92,10 +92,10 @@ Los entregables de este proyecto son:
   
   + Un [Informe](/Documentacion/3-Informe_Calidad.pdf) de Calidad de datos.
   
-  + Un [Análisis Exploratorio](/Documentacion/4-Analisis_Exploratorio.pdf) de los Datos.
+  + Un [Análisis Exploratorio](/Documentacion/EDA) de los Datos.
   
   + Automatización de la carga incremental y transformación de los datos.
-  + Un modelo de Machine Learning.
+  + Un modelo de Análisis de sentimiento de Machine Learning.
   + Un dashboard.
   + Una página web de consulta desarrollada en streamlit.
                                                                                                                                    
