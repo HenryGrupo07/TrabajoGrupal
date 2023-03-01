@@ -97,7 +97,7 @@ Los entregables de este proyecto son:
   + Automatización de la carga incremental y transformación de los datos.
   + Un modelo de Análisis de sentimiento de Machine Learning.
   + Un dashboard.
-  + Una página web de consulta desarrollada en streamlit.
+  + Una página web de consulta desarrollada en [Streamlit](https://cquinayas-deploy-proyecto-final-henry-app-ucqalg.streamlit.app/).
                                                                                                                                    
 </div>
 
