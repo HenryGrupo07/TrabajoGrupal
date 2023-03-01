@@ -41,7 +41,7 @@ Brindar información valiosa y útil  para la toma de decisiones de Inversión y
 ### Propuesta de Valor
 
 Nos apoyamos de la herramienta Value Proposition Canvas para visualizar cómo nuestro producto a entregar va a generar valor para nuestro cliente. 
-<image src="/src/CANVAS.jpg">
+<image src="/src/CANVAS.png">
 
 ## Alcance
 Se encuentra dentro del alcance de este proyecto:
@@ -63,7 +63,7 @@ Se encuentra ***fuera del alcance*** de este proyecto:
 
 A continuación podrá visualizar en detalle las tecnologías a utilizar y el flujo de los datos:
   
-<image src="/src/ARQUITECTURA.jpg">
+<image src="/src/ARQUITECTURA.png">
 
 ### Riesgos
 
@@ -81,7 +81,7 @@ Los pilares de nuestra metodología son:
 + Visualización del flujo de trabajo  y división de roles.
 + Simplicidad en las soluciones.
 
-<image src="/src/Scrum.jpg">
+<image src="/src/SCRUM.png">
 
 <div>
   
@@ -95,7 +95,7 @@ Los entregables de este proyecto son:
   + Un [Análisis Exploratorio](/Documentacion/EDA) de los Datos.
   
   + Automatización de la carga incremental y transformación de los datos.
-  + Un modelo de Análisis de sentimiento de Machine Learning.
+  + Un modelo de Análisis de sentimiento de [Machine Learning](/Documentacion/ML).
   + Un dashboard.
   + Una página web de consulta desarrollada en [Streamlit](https://cquinayas-deploy-proyecto-final-henry-app-ucqalg.streamlit.app/).
                                                                                                                                    
@@ -108,6 +108,7 @@ Podrá encontar el informe completo en este repositorio con el nombre de [Inform
 </div>
 
 ## Equipo de Trabajo 
+  Podés contactarnos a través de Linkedin: 
 + [Mariana Soledad Gonzalez](https://www.linkedin.com/in/m-soledad-gonzalez-data/)
 + [Cesar Quinayas](https://www.linkedin.com/in/c%C3%A9sar-quinay%C3%A1s-01564336/)
 + [Felix Wong Plasencia](https://www.linkedin.com/in/felixwongp/) 
