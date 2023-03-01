@@ -98,7 +98,7 @@ Los entregables de este proyecto son:
   
   + Un modelo de Análisis de sentimiento y un moldelo de Recomendación que podrás encontrar desarrollado en la carpeta [Machine Learning](/Machine_Learning/).
   
-  + Un dashboard.
+  + Un dashboard embebido en la página web.
   
   + Una página web de consulta desarrollada en [Streamlit](https://cquinayas-deploy-proyecto-final-henry-app-ucqalg.streamlit.app/).
                                                                                                                                    
