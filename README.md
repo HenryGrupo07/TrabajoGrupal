@@ -1,4 +1,4 @@
-# Proyecto : Análisis de Reviews de Google Sector Hotelero de EEUU.
+# Proyecto : Análisis de Reviews de Google Sector Alojamientos de EEUU.
 <div>
 <p align="center">
 <image src="/src/logopcadata.png"width="800" height="550">
