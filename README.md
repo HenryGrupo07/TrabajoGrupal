@@ -100,7 +100,7 @@ Los entregables de este proyecto son:
   
   + Un dashboard embebido en la página web.
   
-  + Una página web de consulta desarrollada en [Streamlit](https://cquinayas-deploy-proyecto-final-henry-app-ucqalg.streamlit.app/).
+  + Una página web de consulta desarrollada en [Streamlit](https://cquinayas-deploy-proyecto-final-henry-pca-panyib.streamlit.app/).
                                                                                                                                    
 </div>
 
