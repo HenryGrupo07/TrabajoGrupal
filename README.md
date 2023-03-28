@@ -116,4 +116,4 @@ Podrá encontar el informe completo en este repositorio con el nombre de [Inform
 + [Cesar Quinayas](https://www.linkedin.com/in/c%C3%A9sar-quinay%C3%A1s-01564336/)
 + [Felix Wong Plasencia](https://www.linkedin.com/in/felixwongp/) 
 + [Franco Soto Castillo](https://www.linkedin.com/in/francosoto/) 
-+ [Jacqueline Dominguez]( https://www.linkedin.com/in/jacqueline-dominguez-51191420/)
++ [Jacqueline Dominguez](https://www.linkedin.com/in/jacque-dominguez/)
